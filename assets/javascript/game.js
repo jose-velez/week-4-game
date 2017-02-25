@@ -36,6 +36,7 @@ function gameInit()
 	console.log(saphire);
 	console.log(emerald);
 	$("#numberToMatch").html(randomNum);
+	printInfo();
 }
 
 function game()
